@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer in Minsk</h3>  
+<h3 align="center">Frontend developer from Minsk</h3>  
 <div align="center">
     <h3>Front-End</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
@@ -34,13 +34,13 @@
 <hr/>
   <div align="center">
       
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grolland-creator&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Grolland-creator&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Grolland-creator&theme=tokyonight&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1resc&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F1resc&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F1resc&theme=tokyonight&utcOffset=8)
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grolland-creator&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F1resc&theme=tokyonight)
 
 </div>
 </div>
